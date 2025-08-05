@@ -31,7 +31,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=CA3F04&width=435&lines=Eu+amo+ser+dev+e+Eu+amo+arte)](https://git.io/typing-svg)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=CA3F04&width=435&lines=Eu+amo+ser+dev+e+Eu+amo+arte"/>
 </div>
 
 <br>
@@ -97,8 +97,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:nipyeer@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](https://discord.gg/4vRAVxUp)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=ca3f04)](mailto:nipyeer@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=ca3f04)](https://discord.gg/4vRAVxUp)
   
 
 <br>
