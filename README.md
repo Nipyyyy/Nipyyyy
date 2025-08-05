@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/602517ae-35f9-46e6-963c-815fc5c729f9
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=c13f01&section=header&reversal=false"/>
 
 <br>
